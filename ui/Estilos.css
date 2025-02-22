@@ -1,0 +1,16 @@
+QPushButton {
+    background-color: #3498DB; /* Fondo azul */
+    color: white;              /* Texto blanco */
+    border-radius: 5px;
+    padding: 8px;
+}
+/* Estilo personalizado para el botón Editar */
+#btnEditar {
+    background-color: #FF5733; /* Un fondo naranja */
+    color: white;             /* Texto blanco */
+    font-weight: bold;        /* Texto en negrita */
+    font-size: 14px;          /* Tamaño de la fuente */
+    border: 2px solid #C70039; /* Borde con un color diferente */
+    border-radius: 8px;       /* Bordes redondeados */
+    padding: 10px;            /* Espaciado interno */
+}
